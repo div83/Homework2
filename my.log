@@ -1,0 +1,49 @@
+2020-04-10 14:54:57 INFO  StartUp:14 - -----------------------------------------
+2020-04-10 14:54:57 INFO  StartUp:15 - Entering an application
+2020-04-10 14:54:57 INFO  StartUp:19 - A text was successfully read
+2020-04-10 14:54:57 INFO  StartUp:21 - The text was successfully changed
+2020-04-10 14:54:57 INFO  StartUp:25 - The changed text is ready to be processed
+2020-04-10 14:54:57 INFO  StartUp:27 - The text was returned to its original state
+2020-04-11 21:13:24 INFO  StartUp:14 - -----------------------------------------
+2020-04-11 21:13:24 INFO  StartUp:15 - Entering an application
+2020-04-11 21:13:24 WARN  StartUp:19 - There is no text in file. It's empty
+2020-04-11 21:33:07 INFO  StartUp:14 - -----------------------------------------
+2020-04-11 21:33:07 INFO  StartUp:15 - Entering an application. Preparing for reading a text from a file
+2020-04-11 21:33:07 INFO  StartUp:18 - The file to be read is found
+2020-04-11 21:33:07 WARN  StartUp:20 - There is no text in file. It's empty
+2020-04-11 22:01:00 INFO  StartUp:14 - -----------------------------------------
+2020-04-11 22:01:00 INFO  StartUp:15 - Entering an application. Preparing for reading a text from a file
+2020-04-11 22:01:00 ERROR StartUp:20 - File wasn't found
+2020-04-11 22:02:09 INFO  StartUp:14 - -----------------------------------------
+2020-04-11 22:02:09 INFO  StartUp:15 - Entering an application. Preparing for reading a text from a file
+2020-04-11 22:02:09 INFO  StartUp:26 - A text was successfully read from the file
+2020-04-11 22:02:09 INFO  StartUp:28 - The text was successfully parsed
+2020-04-11 22:02:09 INFO  StartUp:30 - The text was successfully changed
+2020-04-11 22:02:09 INFO  StartUp:34 - The changed text is ready to be processed
+2020-04-11 22:02:09 INFO  StartUp:36 - The text was returned to its original state
+2020-04-11 22:02:26 INFO  StartUp:14 - -----------------------------------------
+2020-04-11 22:02:26 INFO  StartUp:15 - Entering an application. Preparing for reading a text from a file
+2020-04-11 22:02:26 ERROR StartUp:20 - File wasn't found
+2020-04-11 22:03:25 INFO  StartUp:14 - -----------------------------------------
+2020-04-11 22:03:25 INFO  StartUp:15 - Entering an application. Preparing for reading a text from a file
+2020-04-11 22:03:25 WARN  StartUp:23 - The file is empty
+2020-04-11 22:05:46 INFO  StartUp:14 - -----------------------------------------
+2020-04-11 22:05:46 INFO  StartUp:15 - Entering an application. Preparing for reading a text from a file
+2020-04-11 22:05:46 INFO  StartUp:26 - A text was successfully read from the file
+2020-04-11 22:05:46 INFO  StartUp:28 - The text was successfully parsed
+2020-04-11 22:05:46 INFO  StartUp:30 - The text was successfully changed
+2020-04-11 22:05:46 INFO  StartUp:34 - The changed text is ready to be processed
+2020-04-11 22:05:46 INFO  StartUp:36 - The text was returned to its original state
+2020-04-11 22:15:44 INFO  StartUp:15 - -----------------------------------------
+2020-04-11 22:15:44 INFO  StartUp:16 - Entering an application. Preparing for reading a text from a file
+2020-04-11 22:15:44 ERROR StartUp:21 - File wasn't found
+2020-04-11 22:22:32 INFO  StartUp:15 - -----------------------------------------
+2020-04-11 22:22:32 INFO  StartUp:16 - Entering an application. Preparing for reading a text from a file
+2020-04-11 22:22:32 WARN  StartUp:25 - There is no text in file. It's empty
+2020-04-11 22:22:49 INFO  StartUp:15 - -----------------------------------------
+2020-04-11 22:22:49 INFO  StartUp:16 - Entering an application. Preparing for reading a text from a file
+2020-04-11 22:22:49 INFO  StartUp:28 - A text was successfully read from the file
+2020-04-11 22:22:49 INFO  StartUp:30 - The text was successfully parsed
+2020-04-11 22:22:49 INFO  StartUp:32 - The text was successfully changed
+2020-04-11 22:22:49 INFO  StartUp:36 - The changed text is ready to be processed
+2020-04-11 22:22:49 INFO  StartUp:38 - The text was returned to its original state
